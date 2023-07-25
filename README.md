@@ -7,3 +7,4 @@ __Product Landing Page__
 - HTML
 * CSS3
 + Tailwind
++ JavaSscript
